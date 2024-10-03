@@ -9,3 +9,4 @@ Steps to install
 - npm start
 - npm install --save-dev --force
 - npx cypress open
+- add changes to cypress.config.json
