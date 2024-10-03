@@ -10,3 +10,4 @@ Steps to install
 - npm install --save-dev --force
 - npx cypress open
 - add changes to cypress.config.json
+- rename files under support folder to .js extension from .ts extension
