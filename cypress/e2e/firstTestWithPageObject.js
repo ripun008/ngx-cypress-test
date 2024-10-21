@@ -8,5 +8,7 @@ describe('Test with page objects', () => {
     it('verify navigation across app', () => {
         navigationPage.formsLayoutPage()
         navigationPage.datePickerPage()
+        navigationPage.smartTablePage()
+        navigationPage.toasterPage()
     })
 })
