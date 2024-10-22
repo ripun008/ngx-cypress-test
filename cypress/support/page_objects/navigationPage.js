@@ -16,7 +16,7 @@ export class NavigationPage {
     }
 
     datePickerPage() {
-        selectGroupMenuItem('Form')
+        //selectGroupMenuItem('Form')
         cy.contains('Datepicker').click()
     }
 
